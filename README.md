@@ -1,0 +1,4 @@
+skeletor
+========
+
+Wordpress Theme skeleton.
